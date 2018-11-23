@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Space Invaders</string>
+    <string name="play_game">New Game</string>
+    <string name="leaderboard">Leaderboards</string>
+    <string name="start">Start</string>
+    <string name="hint">Enter Player Name</string>
+    <string name="main">Main Menu</string>
+</resources>
